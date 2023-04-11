@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/d1f86933-2690-47a6-a91c-abf17aaee402/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Inven-phrm-app",
+  "appService.deploySubpath": "."
+}
